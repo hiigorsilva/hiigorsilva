@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Higor Silva 👋
 
-[![Site](https://img.shields.io/website?label=NexusBrand.com.br&style=for-the-badge&url=https://nexusbrand.com.br/)](https://nexusbrand.com.br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hiigorsilva)
+<!-- [![Site](https://img.shields.io/website?label=NexusBrand.com.br&style=for-the-badge&url=https://nexusbrand.com.br/)](https://nexusbrand.com.br) -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hiigorsilva) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiigorsilva/)
 
 ![Higor GitHub stats](https://github-readme-stats.vercel.app/api?username=hiigorsilva&show_icons=true&theme=radical)
