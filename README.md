@@ -12,46 +12,46 @@
 
 ### Minhas Techs
 
-<div style="display: flex; align-items: center; gap: .5rem">
+<div class="width: 100%; display: flex; align-items: center; gap: 1rem">
   <!-- REACT -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: .25rem">
+  <div style="display: inline-block; margin-left: 0rem">
     <img style="width: 3rem; height: auto;" align="center" alt="ReactJS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
-    <span>ReactJS</span>
+    <p>ReactJS</p>
   </div>
   
   <!-- NEXT -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: .25rem">
+  <div style="display: inline-block; margin-left: .5rem">
     <img style="width: 3rem; height: auto;" align="center" alt="NextJS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" />
-    <span>NextJS</span>
+    <p>NextJS</p>
   </div>
   
   <!-- ASTRO JS -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: .25rem">
+  <div style="display: inline-block; margin-left: .5rem">
     <img style="width: 3rem; height: auto;" align="center" alt="AstroJS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/astro.png" />
-    <span>AstroJS</span>
+    <p>AstroJS</p>
   </div>
   
   <!-- TYPESCRIPT -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: .25rem">
+  <div style="display: inline-block; margin-left: .5rem">
    <img style="width: 3rem; height: auto;" align="center" alt="TypeScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" />
-    <span>TypeScript</span>
+    <p>TypeScript</p>
   </div>
   
   <!-- JAVASCRIPT -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: .25rem">
+  <div style="display: inline-block; margin-left: .5rem">
    <img style="width: 3rem; height: auto;" align="center" alt="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
-    <span>JavaScript</span>
+    <p>JavaScript</p>
   </div>
   
   <!-- TAILWIND CSS -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: .25rem">
+  <div style="display: inline-block; margin-left: .5rem">
    <img style="width: 3rem; height: auto;" align="center" alt="TailwindCSS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" />
     <span style="text-wrap: nowrap">Tailwind CSS</span>
   </div>
   
   <!-- GIT -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: .25rem">
+  <div style="display: inline-block; margin-left: .5rem">
    <img style="width: 3rem; height: auto;" align="center" alt="TailwindCSS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" />
-    <span>Git</span>
+    <p>Git</p>
   </div>
   
